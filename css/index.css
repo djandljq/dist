@@ -1,0 +1,31 @@
+html,body,ul,p,h1,h2,h3,h4,h5,h6,ol{
+	margin: 0;
+	padding: 0;
+}
+ul{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+	color: #000;
+}
+.header{
+	width: 100%;
+	height:200px;
+	position: relative;
+}
+#myImg{
+	width: 100%;
+	height: 200px;
+}
+#myImg li{
+	width:100%;
+	height: 200px;
+	position: absolute;
+	top: 0;
+	left:0%;
+}
+#myImg li img{
+	width: 100%;
+	height: 100%;
+}
